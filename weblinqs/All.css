@@ -1,0 +1,194 @@
+body{
+    background-image: url(ttt.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+
+
+}
+
+
+.row{
+    background: #f0f0f0;
+}
+.carousel-inner{
+    height: 500px;
+    width: 100%;
+}
+.b{
+    height: 100px;
+    width: 100%;
+    background: #fff9f9;
+    color: #000000;
+    top: 25px;
+    text-align: center;
+    margin-left: 20px;
+    float: left;
+    text-transform: uppercase;
+}
+.c{
+    height: 800px;
+    width: 100%;
+    /* background: #000; */
+}
+.first{
+    height: 400px;
+    width: 33%;
+    float: left;
+
+}
+.fi{
+    height: 300px;
+    width: 25%;
+    float: left;
+    color: #f0f0f0;
+    
+}
+fb{
+     height: 300px;
+    width: 25%;
+    float: left;
+    background: #000;
+    color: #f0f0f0;
+}
+.awa{
+    height: 100px;
+    float: left;
+}
+h1{
+    text-align: center;
+
+}
+h4{
+    text-align: center;
+    /* padding-top: 20px;
+    margin-top: 50px; */
+
+}
+.Q{
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 50px;
+
+}
+.f{
+    height: 200px;
+    width: 100%;
+    /* background: #000; */
+
+}
+.front{
+    height: 190px;
+    width: 10%;
+    padding-left: 1%;
+    margin-left: 1%;
+    float: left;
+    background: #eeebeb;
+
+}
+.end{
+    padding-top: 40px;
+    margin-right: 2%;
+    padding-right: 2%;
+    size: 100PX;
+    float: left;
+    height: 150px;
+    width: 100%;
+}
+h5{
+    padding-top: 20px;
+    margin-left: 6%;
+}
+h5{
+    text-align: center;
+    margin-top: 25PX;
+    font-size: 20px;
+}
+.K{
+    height: 50px;
+    width: 100%;
+}
+.M{
+    height: 250px;
+    width: 100%;
+    float: left;
+}
+.LOIR{
+    height: 220px;
+    width: 15%;
+    padding-left: 1%;
+    margin-left: 1.5%;
+    float: left;
+    background: #eeebeb;
+
+}
+.deer{
+    padding-top: 40px;
+    margin-right: 2%;
+    padding-right: 2%;
+    size: 100PX;
+    float: left;
+    height: 150px;
+    width: 100%;
+}
+.I{
+    height: 250px;
+    width: 100%;
+    float: left;
+}
+.WALEED{
+    height: 220px;
+    width: 12%;
+    padding-left: 0.5%;
+    margin-left: 0.5%;
+    float: left;
+    background: #eeebeb;
+
+}
+.AHMAD{
+    padding-top: 40px;
+    margin-right: 0.5%;
+    padding-right: 0.5%;
+    size: 100PX;
+    float: left;
+    height: 150px;
+    width: 100%;
+}
+.as{
+    height: 500px;
+    width: 100%;
+    background: #000;
+}
+.itm3{
+    height: 500px;
+    width: 100%;
+}
+.kk{
+    height: 300px;
+    width: 100%;
+    /* background: #000; */
+}
+h1{
+    text-align: center;
+}
+p{
+    padding-top: 10px;
+    margin-top: 30px;
+    text-align: center;
+}
+.im{
+    height: 250px;
+    width: 100%;
+    background-image: url(goal.webp);
+    background-size: contain;
+}
+.tex{
+    color: #eeebeb;
+    text-align: center;
+}
+.wh{
+    color: #eeebeb;
+    text-align: center;
+}
